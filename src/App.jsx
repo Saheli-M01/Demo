@@ -6,6 +6,7 @@ import './Components/page1.txt'
 
 import './Components/sid.txt'
 
+import {useEffect} from 'react'
 function App() {
   const [count, setCount] = useState(0)
 
