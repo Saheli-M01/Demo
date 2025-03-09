@@ -6,8 +6,6 @@ import './Components/page1.txt'
 
 import './Components/sid.txt'
 
-import {useRef} from 'react'
-
 function App() {
   const [count, setCount] = useState(0)
 
