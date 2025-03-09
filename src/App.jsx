@@ -9,6 +9,7 @@ import './Components/sid.txt'
 import {useEffect} from 'react'
 function App() {
   const [count, setCount] = useState(0)
+  const [read,setRead] = useState(true)
 
   return (
     <>
